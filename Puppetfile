@@ -28,6 +28,6 @@ mod 'role',
   :git	=> 'git@github.com:starakant/puppet-role.git',
   :ref	=> 'production'
 
-mod 'profile'
+mod 'profile',
   :git	=> 'git@github.com:starakant/puppet-profile.git',
   :ref	=> 'production'
