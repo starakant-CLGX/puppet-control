@@ -18,16 +18,16 @@ mod 'apache',
 
 mod 'ssh',
   :git	=> 'git@github.com:starakant/puppet-ssh.git',
-  :ref	=> 'production'
+  :ref	=> 'master'
 
 mod 'ntp',
   :git	=> 'git@github.com:starakant/puppet-ntp.git',
-  :ref 	=> 'production'
+  :ref 	=> 'master'
 
 mod 'role',
   :git	=> 'git@github.com:starakant/puppet-role.git',
-  :ref	=> 'production'
+  :ref	=> 'master'
 
 mod 'profile',
   :git	=> 'git@github.com:starakant/puppet-profile.git',
-  :ref	=> 'production'
+  :ref	=> 'master'
